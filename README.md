@@ -1,1 +1,3 @@
 # BERT-Sentimental-Analysis
+
+In this 2-hour long guided project, I learnt how to analyze a dataset for sentiment analysis, how to read it in a PyTorch BERT model and adjust the architecture for multi-class classification. Learning how to adjust an optimizer and scheduler for ideal training and performance. In fine-tuning this model, you will learn how to design a train and evaluate loop to monitor model performance as it trains, including saving and loading models. Finally, you will build a Sentiment Analysis model that leverages BERT's large-scale language knowledge.
